@@ -1,4 +1,4 @@
-## Hi, I'm Hazem Ehab👋
+## Hi, I'm Hazem Elassal 👋
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
 - Flutter Developer | Software engineer :robot:
@@ -25,3 +25,5 @@
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hazem-elassal-8b7216240/)
 [![Gmail](https://img.shields.io/badge/-GMAIL-blue?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hazemelassal123@gmail.com)
 [![facebook](https://img.shields.io/badge/-FACEBOOK-blue?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/hazem.elassal.50)
+<br>
+phone: +20 1141010279
