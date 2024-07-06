@@ -12,7 +12,6 @@
 ### Languages, Frameworks, and Tools
 ![Flutter](https://img.shields.io/badge/-Flutter-white?style=flat&logo=flutter&logoColor=blue)
 ![Dart](https://img.shields.io/badge/-Dart-white?style=flat&logo=dart&logoColor=blue)
-![C++](https://img.shields.io/badge/-C++-white?style=flat&logo=c%2B%2B&logoColor=blue)
 <br>
 ![Firebase](https://img.shields.io/badge/-Firebase-white?style=flat&logo=firebase&logoColor=yellow)
 ![Git](https://img.shields.io/badge/-Git-white?style=flat&logo=git&logoColor=F05032)
